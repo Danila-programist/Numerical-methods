@@ -53,7 +53,4 @@
 Все ноутбуки были созданы в **Colab**, поэтому их можно открыть и запустить прямо онлайн.  
 Достаточно загрузить `.ipynb`-файл в Google Drive и открыть с помощью Google Colab.
 
-### Локально (Jupyter Notebook)
-1. Установите зависимости:
-   ```bash
-   pip install numpy matplotlib jupyter
+
